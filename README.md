@@ -1,5 +1,5 @@
 # e-commerce
-*.java linguist-language=Java
+
 
 Disciplina: Programação Orientada a Objetos
 
