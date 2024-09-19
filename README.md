@@ -1,6 +1,6 @@
 # e-commerce
 
-Disciplina: Programção Orientada a Objetos
+Disciplina: Programação Orientada a Objetos
 
 Alunos: Milena e Hérvin
 
